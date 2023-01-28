@@ -1,2 +1,2 @@
 # Primeiro_site
-Meu primeiro projeto utilizando html,css e javascript
+Meu primeiro projeto utilizando html e css 
